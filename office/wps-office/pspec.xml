@@ -11,7 +11,7 @@
         <Summary>WPS Office Suite</Summary>
         <Description>WPS Office Suite</Description>
         <License>http://wps-community.org/license.md</License>
-        <Archive sha1sum="9974078cde40c26419998294a0a754bc102afe37" type="binary">http://kdl.cc.ksosoft.com/wps-community/download/6757/wps-office_10.1.0.6757_amd64.deb</Archive>
+	<Archive sha1sum="1661c8dfad03e1521bb833bc258ad655e275b600" type="binary">https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/9719/wps-office_11.1.0.9719.XA_amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>binutils</Dependency>
@@ -29,9 +29,9 @@
     </Package>
 
     <History>
-        <Update release="5">
-            <Date>09-11-2018</Date>
-            <Version>10.1.0.6757</Version>
+        <Update release="6">
+            <Date>09-11-2020</Date>
+            <Version>11.1.0.9719</Version>
             <Comment>Update to 10.1.0.6757</Comment>
             <Name>Thomas Staudinger</Name>
             <Email>staudi.kaos@gmail.com</Email>
